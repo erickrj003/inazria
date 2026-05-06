@@ -80,7 +80,7 @@ The Tammuzians believe perfection is achieved through the purifying sacred flame
 
 **Philosophy**: Purity through sacred flame; devotion through motion; healing through divine light.
 
-**Flow Gain — Divine Favor**. You gain 1 Flow boost when you restore hit points to an ally (including yourself) or when you reduce a fiend or undead to 0 hit points.
+**Flow Gain — Divine Favor**. You gain 1 Flow boost when you restore hit points to an ally (including yourself) with a spell or class feature (once per turn), or when you reduce a fiend or undead to 0 hit points.
 
 **Flow Spend — Sacred Techniques**. You learn additional ways to spend Flow unique to your tradition:
 - **Purifying Touch** (2 Flow, action or immediate on a critical roll). Touch one creature within 5 feet. If it's an ally, it regains hit points equal to your Wisdom modifier + your ascetic level and you can end one condition affecting it (blinded, deafened, paralyzed, poisoned, or diseased). If it's an enemy, it takes radiant damage equal to your Wisdom modifier + your ascetic level and must succeed on a Wisdom saving throw (DC 8 + your proficiency bonus + your Wisdom modifier) or be blinded until the end of your next turn.
@@ -107,7 +107,7 @@ The Tammuzians believe perfection is achieved through the purifying sacred flame
 - Your Inner Flame radius permanently increases to 20 feet bright / 20 feet dim (30 feet / 30 feet while Flawless)
 - Allies that start their turn in your bright light regain hit points equal to your Wisdom modifier
 - When you use Purifying Touch on an ally, you can target up to three creatures within 5 feet of you simultaneously (spending Flow only once)
-- **Miracle of the Sacred Flame** (once per long rest): When you or an ally you can see within 30 feet would be reduced to 0 hit points, you can use your reaction to spend 3 Flow. The target instead drops to 1 hit point, regains hit points equal to twice your ascetic level, and is cured of all conditions and diseases. A pillar of radiant flame descends on the target's location; each hostile creature within 10 feet must make a Dexterity saving throw (DC 8 + your proficiency bonus + your Wisdom modifier), taking 6d8 radiant damage on a failed save or half as much on a success.
+- **Miracle of the Sacred Flame** (once per long rest): When you or an ally you can see within 30 feet would be reduced to 0 hit points, you can use your reaction to spend 3 Flow. The target instead drops to 1 hit point, regains hit points equal to twice your ascetic level, and is cured of all conditions and diseases. A pillar of radiant flame briefly illuminates the area, and all allies within 20 feet of the target regain hit points equal to your Wisdom modifier and gain advantage on their next attack roll or saving throw.
 
 ---
 
@@ -117,7 +117,7 @@ The Nityamar believe that perfection and mortality are fundamentally opposed. To
 
 **Philosophy**: Perfection through denial of mortal limitations; power through connection to Kwata; freedom through transcendence.
 
-**Flow Gain — Transcendent Discipline**. You gain 1 Flow boost when you succeed on a saving throw while you have half your hit points or fewer, or when you reduce a creature to 0 hit points using only an unarmed strike.
+**Flow Gain — Transcendent Discipline**. You gain 1 Flow boost when you succeed on a saving throw while you have half your hit points or fewer, when you reduce a creature to 0 hit points using only an unarmed strike, or when you hit with two or more unarmed strikes against the same creature on your turn.
 
 **Flow Spend — Kwata Techniques**. You learn additional ways to spend Flow unique to your tradition:
 - **Step Between Worlds** (1 Flow, on your turn). You partially phase into Kwata, becoming incorporeal until the end of your turn. You can move through creatures and objects as if they were difficult terrain, taking 1d10 force damage if you end your turn inside an object. Opportunity attacks against you have disadvantage, and you have resistance to all damage except psychic and force damage until the end of your turn.
@@ -129,6 +129,7 @@ The Nityamar believe that perfection and mortality are fundamentally opposed. To
 - You gain a +2 bonus to AC (this stacks with Unarmored Defense)
 - You can use your Dexterity modifier instead of Strength for grapple checks and Strength (Athletics) checks to escape grapples
 - When you are Flowing (0+ Flow), you take half damage from falling
+- At 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity
 
 **Kwata Connection (3rd Level)**. Your bond with the perfect plane deepens. You gain the following benefits based on your current Flow:
 - **At 1+ Flow**: You can walk on vertical surfaces and across liquids on your turn without falling during the move. If you end your turn on a vertical surface or liquid, you fall unless you have another means of staying aloft.
@@ -148,106 +149,131 @@ The Nityamar believe that perfection and mortality are fundamentally opposed. To
 **Empty Body (17th Level)**. You can achieve near-total transcendence. As an action, you can spend 4 Flow to become invisible for 1 minute. During this time, you also have resistance to all damage except force damage. While invisible in this way, you can spend an additional Flow boost at the start of your turn to gain the benefits of Step Between Worlds until the start of your next turn without using your action.
 
 **Oneness with Kwata (18th Level)**. You exist partially in both worlds simultaneously. You gain the following permanent benefits:
-- Your unarmed strikes count as magical for the purpose of overcoming resistance and immunity
+- Your unarmed strikes deal force damage instead of bludgeoning damage, representing your connection to Kwata's perfect essence
 - You can use Step Between Worlds without spending Flow, but you can do so only once per turn
+- When you use Flurry of Blows, you can make three unarmed strikes instead of two (spending 1 Flow as normal)
 - **Perfect Liberation** (once per long rest): When you would be reduced to 0 hit points, you can choose to instead fully enter Kwata for 1 minute. While in Kwata, you are invisible, incorporeal, and immune to all damage, but you cannot affect the material world in any way (you can't attack, cast spells, or interact with objects). You can move at your normal speed, passing through creatures and objects freely. At the start of each of your turns while in Kwata, you regain hit points equal to your Wisdom modifier. You can return to the material plane in an unoccupied space you can see as a bonus action. When you return, you gain the benefits of being Flawless (3+ Flow) for 1 minute, regardless of your actual Flow.
 
 ---
 
-### Nehushtani — The Thousand Faces of Perfection
+### Nehushtani — The Adaptive Mirror
 
-The Nehushtani believe that perfection cannot be found in a single form or philosophy, but in the ability to become anything required by the moment. They practice a fluid martial art that adapts to any opponent, any situation, any need. Through meditation and study of the natural world, Nehushtani ascetics learn to shift between different aspects—physical, mental, and spiritual forms that embody every aspect of the mortal realm. They are mirrors that reflect and counter their enemies, chameleons that become what the situation demands.
+The Nehushtani believe that perfection cannot be found in a single form or philosophy, but in the ability to become anything required by the moment. They are combat analysts who study their enemies, steal their strengths, and turn their powers against them. Through careful observation and precise mimicry, Nehushtani ascetics learn to counter any threat, exploit any weakness, and adapt to any challenge. They are mirrors that reflect and counter their enemies, thieves who borrow power, and chameleons who become what the situation demands.
 
-**Philosophy**: Perfection through adaptability; power through understanding all forms; mastery through becoming the answer.
+**Philosophy**: Perfection through adaptability; power through understanding your enemy; mastery through becoming the answer to any threat.
 
-**Flow Gain — Adaptive Response**. You gain 1 Flow boost when you successfully use a reaction to counter or mitigate an enemy action (such as Flowing Counter, opportunity attacks, or Nehushtani abilities).
+**Flow Gain — Analytical Combat**. You gain 1 Flow boost when you:
+- Successfully use a reaction to counter, mitigate, or redirect an enemy action (such as Flowing Counter, Deny Magic, or Reflected Power)
+- Succeed on a saving throw against a spell or magical effect
+- Hit a creature with Adaptive Strike and learn information about it
+- Successfully use a stolen or mimicked ability
 
 **Flow Spend — Mirror Techniques**. You learn additional ways to spend Flow unique to your tradition:
-- **Stolen Technique** (3 Flow, reaction when a creature you can see within 30 feet casts a spell or uses a special ability). You attempt to mirror the action. If it's a cantrip or 1st-level spell, you can cast the same spell immediately, targeting a creature or area of your choice (using Wisdom as your spellcasting ability). If it's a special ability (such as a breath weapon or special attack), you can replicate a simplified version: make a ranged spell attack (range 60 feet) dealing 1d8 damage of an appropriate type, or force a Wisdom saving throw (DC 8 + proficiency + Wisdom modifier) for half damage. Once you use this feature, you can't use it again until you finish a short or long rest.
-- **Perfect Counter** (1 Flow, reaction when you are targeted by an attack). You impose disadvantage on the attack roll. If the attack misses, you can immediately make one weapon attack against the attacker if they are within your reach.
+- **Deny Magic** (2 Flow, reaction when a creature within 60 feet casts a spell). You attempt to interrupt and steal the magical energy. The creature must make a Charisma saving throw (DC 8 + your proficiency bonus + your Wisdom modifier). On a failed save, the spell fails and has no effect, and you learn what spell was being cast. If the spell was 3rd level or lower, you can immediately cast the same spell (no components required) targeting a creature or area of your choice, using Wisdom as your spellcasting ability. Once you use this feature, you can't use it again until you finish a short or long rest.
+- **Exploit Weakness** (1 Flow, on your turn when you attack a creature you've hit with Adaptive Strike). You exploit what you've learned. Your attack has advantage, and on a hit, you deal extra damage equal to twice the Adaptive Strike bonus damage (2d6/4d6/6d6 depending on level).
 
-**Aspects of Perfection (1st Level)**. You can shift your physical and spiritual form to embody different aspects of perfection. You know two Aspects (choose from the list below), and you learn one additional Aspect at 5th, 9th, 13th, and 17th level. You can change your active Aspect as a bonus action while Flowing (0+ Flow). You can only have one Aspect active at a time.
+**Thousand Faces (1st Level)**. You can perfectly mimic the appearance, voice, and mannerisms of any humanoid you have observed for at least 1 minute. This transformation lasts until you choose to end it (no action required) or until you are incapacitated. Creatures can attempt a Wisdom (Insight) check contested by your Charisma (Deception) check to see through your disguise if they have reason to be suspicious. While disguised as a specific individual, you have advantage on Charisma checks to impersonate them and on your first attack roll against a creature that believes you are the person you're impersonating.
 
-**Available Aspects:**
-- **Aspect of the Predator**: Your unarmed strikes and weapon attacks deal an extra 1d4 damage. You have advantage on Wisdom (Perception) checks that rely on smell or hearing.
-- **Aspect of the Sentinel**: You gain a +1 bonus to AC. When a creature within 5 feet of you makes an attack against a target other than you, you can use your reaction to make a weapon attack against that creature.
-- **Aspect of the Serpent**: You have advantage on Dexterity saving throws. Once per turn, you can use your reaction to impose disadvantage on one attack roll made against you.
-- **Aspect of the Sage**: You can use your Wisdom modifier instead of Intelligence for Intelligence-based checks. You learn one cantrip from the druid or cleric spell list (Wisdom is your spellcasting ability).
-- **Aspect of the Mountain**: You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks. Your speed is reduced by 10 feet.
-- **Aspect of the Tempest**: You can use your bonus action to gain a flying speed equal to your walking speed until the end of your turn. Your weapon attacks deal an extra 1d4 lightning damage.
+**Combat Analysis (1st Level)**. You excel at identifying patterns and weaknesses in combat. You gain proficiency in Insight if you don't already have it. If you do, you gain expertise in it (double your proficiency bonus). Additionally, as a bonus action while Flowing (0+ Flow), you can study one creature you can see within 30 feet. Until the end of your next turn, you have advantage on attack rolls against that creature, and you learn its highest and lowest ability scores.
 
-**Thousand Faces (1st Level)**. You can perfectly mimic the appearance, voice, and mannerisms of any humanoid you have observed for at least 1 minute. This transformation lasts until you choose to end it (no action required) or until you are incapacitated. Creatures can attempt a Wisdom (Insight) check contested by your Charisma (Deception) check to see through your disguise if they have reason to be suspicious. While disguised as a specific individual, you have advantage on Charisma checks to impersonate them.
+**Mimic and Master (3rd Level)**. When a creature you can see within 30 feet hits you or an ally with an attack, you learn the attack's damage type and any special properties (such as additional effects or conditions). Until the end of your next turn, your weapon attacks can deal that damage type instead of their normal damage. Additionally, if the attack had a special property (such as knocking prone, causing a condition, or dealing extra damage on a failed save), you can spend 1 Flow when you hit with a weapon attack to apply that same property to your attack (the target makes the same saving throw with the same DC, or automatically suffers the effect if no save was allowed).
 
-**Mimic and Master (3rd Level)**. When a creature you can see within 30 feet hits you with an attack, you learn the attack's damage type and any special properties (such as additional effects or conditions). Until the end of your next turn, your weapon attacks can deal that damage type instead of their normal damage, and you can apply one of the special properties you learned (if applicable, at the DM's discretion).
+**Adaptive Strike (5th Level)**. Once per turn when you hit a creature with a weapon attack while Flowing (0+ Flow), you can adapt your strike to exploit weakness. You deal an extra 1d6 damage, and you learn one piece of information about the target: its current hit points, one damage resistance or immunity, one damage vulnerability, or one condition immunity. Each time you hit the same creature with Adaptive Strike, you learn an additional piece of information. This extra damage increases to 2d6 at 11th level and 3d6 at 17th level.
 
-**Adaptive Strike (5th Level)**. Once per turn when you hit a creature with a weapon attack while Flowing (0+ Flow), you can adapt your strike to exploit weakness. You deal an extra 1d6 damage, and you learn one piece of information about the target: its current hit points, one damage resistance or immunity, one damage vulnerability, or one condition immunity. This extra damage increases to 2d6 at 11th level and 3d6 at 17th level.
+**Tactical Versatility (6th Level)**. Your adaptability grants you access to diverse techniques. You learn three maneuvers of your choice from the Battle Master fighter's list (if this exists in your game; otherwise, choose from the following):
+- **Disarming Attack**: When you hit with a weapon attack, you can spend 1 Flow to force the target to make a Strength saving throw (DC 8 + proficiency + Wisdom). On a failed save, it drops one item of your choice that it's holding.
+- **Feinting Attack**: As a bonus action, you can spend 1 Flow to feint, giving yourself advantage on your next attack roll against a creature within 5 feet.
+- **Precision Attack**: When you make a weapon attack, you can spend 1 Flow to add your Wisdom modifier to the attack roll.
+- **Riposte**: When a creature misses you with a melee attack, you can spend 1 Flow as a reaction to make one melee weapon attack against it.
+- **Trip Attack**: When you hit with a weapon attack, you can spend 1 Flow to force the target to make a Strength saving throw (DC 8 + proficiency + Wisdom). On a failed save, it's knocked prone.
 
-**Memory of Forms (6th Level)**. You can store techniques you've witnessed. When you see a creature cast a spell of 3rd level or lower or use a special ability, you can use your reaction to study and memorize it. You can store a number of abilities equal to your Wisdom modifier (minimum 1). To use a stored ability, you must spend 2 Flow and use an action (or bonus action if the original ability was a bonus action). When you use a stored spell, you cast it at its lowest level using Wisdom as your spellcasting ability. When you use a stored special ability, you replicate a simplified version as described in Stolen Technique, but the damage increases to 2d8. You can replace one stored ability with a new one whenever you finish a long rest.
+**Reflected Power (9th Level)**. When you are targeted by a spell that targets only you (whether it requires an attack roll or saving throw), you can use your reaction to attempt to reflect it back at the caster. Make a Wisdom saving throw against the spell's save DC (or against DC 10 + spell level if it requires an attack roll). On a success, you take no damage or effect from the spell, and you can redirect it to target the caster or another creature within range, using the caster's spell attack bonus or save DC. Once you use this feature, you can't use it again until you finish a short or long rest.
 
-**Reflect and Redirect (9th Level)**. When you are targeted by a spell that targets only you and requires a saving throw, you can use your reaction to attempt to turn it back on the caster. Make a Wisdom saving throw against the spell's save DC. On a success, you take no damage or effect from the spell, and the caster must make a saving throw against their own spell as if they had cast it on themselves. Once you use this feature, you can't use it again until you finish a short or long rest.
+**Adaptive Defense (11th Level)**. When you succeed on a saving throw against a spell or magical effect while Flowing (0+ Flow), you gain temporary hit points equal to twice your Wisdom modifier. Additionally, you gain resistance to the spell's damage type (if any) until the end of your next turn. If you take damage of that type before the resistance ends, you gain 1 Flow boost.
 
-**Aspect Mastery (11th Level)**. You gain additional benefits based on your active Aspect:
-- **Predator**: Your extra damage increases to 1d8, and you have advantage on Wisdom (Perception) and Wisdom (Survival) checks to track creatures.
-- **Sentinel**: Your AC bonus increases to +2, and allies within 5 feet of you gain a +1 bonus to AC.
-- **Serpent**: You can use your reaction to impose disadvantage on attack rolls against you twice per short rest (instead of once per turn), and you gain advantage on saving throws against poison.
-- **Sage**: You learn one additional cantrip, and you can add your Wisdom modifier to one Intelligence, Wisdom, or Charisma check you make (once per short rest).
-- **Mountain**: You have advantage on saving throws against being knocked prone or moved against your will, and you gain resistance to one additional damage type of your choice (chosen when you activate this Aspect).
-- **Tempest**: Your flying speed lasts until the end of your next turn (instead of end of current turn), and creatures you hit with weapon attacks can't take reactions until the end of your turn.
+**Siphon Power (13th Level)**. You can temporarily rob enemies of their greatest abilities. As an action while Flowing (0+ Flow), you can target one creature within 30 feet that you can see. The creature must make a Charisma saving throw (DC 8 + your proficiency bonus + your Wisdom modifier). On a failed save, choose one ability the creature possesses that you have witnessed it use: a spell it can cast, a special ability (such as a breath weapon, innate spellcasting, or magical trait), or a legendary action. For the next 10 minutes, the creature cannot use that ability, and you gain the ability to use it once as if you possessed it, using your own ability scores and proficiency bonus. If you steal a spell, you can cast it at the level the creature cast it (up to 5th level). If you steal a special ability, you replicate it with the same effects and saving throw DC. You can only have one stolen ability at a time. Once you use this feature, you can't use it again until you finish a long rest.
 
-**Become the Enemy (13th Level)**. When you use Thousand Faces to mimic a specific creature you have observed, you can spend 3 Flow to also gain limited access to one of their abilities for 10 minutes. Choose one ability you have seen them use: a spell they can cast, a weapon proficiency, a skill proficiency, or a special trait (such as darkvision, a breath weapon, or natural armor). You gain the ability to use that feature as if you possessed it, using your own ability scores and proficiency bonus. You can only mimic one creature's ability at a time. Once you use this feature, you can't use it again until you finish a long rest.
+**Reactive Superiority (14th Level)**. Your analytical mind processes threats faster than others can react. You can take two reactions each round instead of one (this stacks with Reactive Mastery from the base class for three total reactions). Additionally, when you use a reaction to successfully counter, mitigate, or avoid an attack or spell (such as causing an attack to miss, succeeding on a save, or using Reflected Power or Deny Magic), you can move up to 15 feet without provoking opportunity attacks as part of that reaction.
 
-**Universal Adaptation (14th Level)**. You can change your active Aspect as a reaction when you take damage or when you are forced to make a saving throw (instead of only as a bonus action). Additionally, when you succeed on a saving throw against a spell or magical effect while Flowing (0+ Flow), you regain hit points equal to your Wisdom modifier.
+**Master Thief (17th Level)**. Your power-stealing abilities improve dramatically. Your Deny Magic can now counter spells of any level (not just 3rd or below), and you can use it twice before needing a short rest. Your Siphon Power can now steal any ability you've witnessed (not just spells up to 5th level), and you can use the stolen ability up to three times before it returns to the original creature. Additionally, when you steal an ability with Siphon Power, you can choose to keep the ability stored indefinitely (it doesn't return after 10 minutes), but you can only store one ability this way. You can replace your stored ability with a new one whenever you use Siphon Power again.
 
-**Perfect Mimicry (17th Level)**. Your Memory of Forms improves significantly. You can now store abilities of any level or complexity, and you can store a number of abilities equal to twice your Wisdom modifier. When you use a stored spell, you can cast it at up to 5th level (if you have seen it cast at that level). When you use a stored special ability, the damage increases to 3d8, and you can replicate more complex effects at the DM's discretion. Additionally, you can use Stolen Technique twice before needing a short rest (instead of once).
-
-**Master of All Forms (18th Level)**. You achieve perfect fluidity between all forms. You gain the following benefits:
-- You can have two Aspects active simultaneously. You must spend 1 Flow at the start of each of your turns to maintain both Aspects. If you cannot or choose not to spend the Flow, one Aspect of your choice ends.
-- You can change one of your active Aspects without using an action (once per turn).
-- **Living Mirror** (once per long rest): As an action, you can spend 3 Flow to perfectly embody adaptation for 1 minute. While in this state, you gain the benefits of all Aspects you know simultaneously, you can use Memory of Forms abilities without spending Flow, and whenever a creature within 30 feet of you uses a spell or special ability, you can use your reaction to immediately replicate it using Stolen Technique without spending Flow or using a limited use. When this state ends, your Flow drops to 0 (not Disrupted, but you lose any Flow you had above 0).
+**Perfect Adaptation (18th Level)**. You become the ultimate mirror and counter-fighter. You gain the following benefits:
+- Your Wisdom score increases by 2, to a maximum of 22.
+- Whenever you gain 1 Flow boost, you can choose to gain 2 Flow boosts instead. You can do this a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+- **The Living Weapon** (once per long rest): As an action, you can spend 3 Flow to enter a state of perfect adaptation for 1 minute. While in this state, you gain the following benefits:
+  - You can use Deny Magic and Reflected Power without spending limited uses
+  - When you use Deny Magic or Reflected Power, you don't need to spend Flow
+  - Whenever a creature within 60 feet uses a spell or special ability, you immediately learn what it is and gain advantage on any saving throws against it
+  - Your Adaptive Strike bonus damage increases by 2d6
+  - You gain a +2 bonus to AC and saving throws
+  
+  When this state ends, you retain all information you learned about creatures during it, and any abilities stolen with Siphon Power during this state can be used one additional time.
 
 ---
 
-### Arbiter — The Righteous Defender
+### Arbiter — The Righteous Enforcer
 
-Arbiters believe that perfection is achieved through moral righteousness and the defense of the innocent. They reside in cloistered monasteries scattered across the world, emerging only when called to resolve disputes or protect the helpless. Unlike other warriors, Arbiters cannot strike first—they act only in defense, never in aggression. Their strength comes not from dealing damage, but from their unwavering resolve to stand between evil and the innocent. Through force of will and compelling presence, they seek to end conflicts through words when possible, and through righteous defense when necessary.
+Arbiters believe that perfection is achieved through moral righteousness and the defense of the innocent. They reside in cloistered monasteries scattered across the world, emerging only when called to resolve disputes or protect the helpless. While Arbiters prefer to act as defenders and peacemakers, they understand that true protection sometimes requires striking first to prevent greater harm. Through force of will and commanding presence, they control the battlefield—restricting enemy movement, disrupting their actions, and making themselves impossible to ignore. They seek to end conflicts through words when possible, but stand ready to enforce justice when necessary.
 
-**Philosophy**: Perfection through moral action; power through protection; strength through mercy and justice.
+**Philosophy**: Perfection through moral action; power through control and protection; strength through commanding presence.
 
-**Flow Gain — Righteous Defense**. You gain 1 Flow boost when you use a reaction to protect an ally (such as reducing damage they take, imposing disadvantage on an attack against them, or intercepting an attack), or when you successfully de-escalate a hostile situation through diplomacy.
+**Flow Gain — Righteous Defense**. You gain 1 Flow boost when you:
+- Use a reaction to protect an ally (such as reducing damage they take, imposing disadvantage on an attack against them, or intercepting an attack)
+- Successfully prevent an enemy from moving or taking an action with one of your abilities
+- Reduce a creature to 0 hit points while at least one ally is within 10 feet of you
 
 **Flow Spend — Guardian Techniques**. You learn additional ways to spend Flow unique to your tradition:
 - **Interpose** (1 Flow, reaction when an ally within 5 feet is hit by an attack). You place yourself between your ally and the attack. The attack targets you instead, and you gain resistance to the attack's damage.
-- **Voice of Peace** (2 Flow, action). You speak words of compelling peace to creatures within 30 feet that can hear and understand you. Each hostile creature must make a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier). On a failed save, the creature becomes calm and non-hostile for 1 minute, unable to take hostile actions unless it or its allies are attacked. Once you use this feature, you can't use it again until you finish a short or long rest.
+- **Commanding Voice** (2 Flow, action). You issue a powerful command to creatures within 30 feet that can hear and understand you. Choose one of the following effects:
+  - **Halt**: Each hostile creature must make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). On a failed save, the creature's speed becomes 0 and it can't take reactions until the end of your next turn.
+  - **Kneel**: Each hostile creature must make a Charisma saving throw. On a failed save, the creature is knocked prone and can't stand up until the end of your next turn.
+  - **Peace**: Each hostile creature must make a Charisma saving throw. On a failed save, the creature becomes calm and non-hostile for 1 minute, unable to take hostile actions unless it or its allies are attacked.
+  
+  Once you use this feature, you can't use it again until you finish a short or long rest.
 
-**Vow of Defense (1st Level)**. You have taken a sacred vow to never strike first. You cannot make an attack against a creature unless that creature has attacked you or one of your allies since the end of your last turn. However, your defensive prowess is unmatched. You gain the following benefits:
+**Vow of Defense (1st Level)**. You have taken a sacred vow to act as a protector, striking only when necessary. When you make an attack against a creature on your turn, and that creature has not attacked you or your allies since the start of your last turn, you lose 1 Flow boost (potentially becoming Disrupted). However, your defensive prowess is unmatched. You gain the following benefits:
 - You can use Charisma instead of Wisdom for your Unarmored Defense calculation (AC = 10 + Dexterity modifier + Charisma modifier)
 - You gain proficiency in Persuasion and Insight. If you already have proficiency in either skill, you gain expertise in it instead.
 - When a creature you can see attacks an ally within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll.
 
-**Sanctuary Aura (1st Level)**. Your presence discourages violence. While you are Flowing (0+ Flow) and you haven't attacked since the end of your last turn, you emanate an aura of peace in a 10-foot radius. Hostile creatures within your aura have disadvantage on attack rolls against creatures other than you. If a hostile creature in your aura attacks anyone other than you, you gain 1 Flow boost.
+**Arbiter's Judgment (1st Level)**. As a bonus action while Flowing (0+ Flow), you can pass judgment on one creature you can see within 30 feet, marking it until the start of your next turn. While a creature is Judged by you, it suffers the following effects:
+- It has disadvantage on attack rolls against creatures other than you
+- Its speed is reduced by 10 feet
+- It cannot take reactions
+- When it hits you with an attack or moves within 5 feet of you, you gain 1 Flow boost (once per turn per creature)
 
-**Compelling Presence (3rd Level)**. Your force of personality can redirect aggression. As a bonus action while Flowing (0+ Flow), you can choose one creature within 30 feet that can see or hear you. That creature must make a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier). On a failed save, the creature has disadvantage on attack rolls against targets other than you until the end of your next turn. You can use this feature a number of times equal to your Charisma modifier (minimum 1), and you regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your Charisma modifier (minimum 1), and you regain all expended uses when you finish a short or long rest. At 9th level, when you use this feature, you can Judge up to two creatures. At 17th level, you can Judge up to three creatures simultaneously.
 
-**Shield of the Innocent (5th Level)**. Your defensive abilities improve. You gain the following benefits:
+**Disruptive Strike (3rd Level)**. Your attacks hinder your enemies' ability to fight. Once per turn when you hit a creature with a weapon attack while Flowing (0+ Flow), you can choose one of the following effects:
+- The target's speed is reduced by 15 feet until the end of your next turn
+- The target has disadvantage on its next attack roll before the end of your next turn
+- The target cannot take reactions until the end of your next turn
+- The target cannot take bonus actions until the end of your next turn
+
+If you hit the same creature with Disruptive Strike on consecutive turns, you can apply two of these effects instead of one.
+
+**Enforcer's Presence (5th Level)**. Your commanding presence improves. You gain the following benefits:
 - When you use your reaction to impose disadvantage on an attack roll (from Vow of Defense), if the attack misses, you can immediately make one weapon attack against the attacker if they are within your reach.
-- Once per turn when you hit a creature that has attacked you or an ally since the end of your last turn, you deal an extra 1d6 radiant damage. This damage increases to 2d6 at 11th level and 3d6 at 17th level.
+- Once per turn when you hit a creature with a weapon attack, you deal an extra 1d6 radiant damage. This damage increases to 2d6 at 11th level and 3d6 at 17th level.
+- When you hit a creature with a weapon attack, you can choose to deal no damage and instead push the creature up to 15 feet away from you or pull it up to 15 feet closer to you.
 
 **Guardian's Resolve (6th Level)**. Your determination to protect others grants you resilience. While you are Flowing (0+ Flow) and an ally is within 10 feet of you, you have advantage on saving throws against being charmed, frightened, or stunned. Additionally, when you are reduced to half your hit points or lower, you gain temporary hit points equal to your Charisma modifier + your ascetic level. Once you gain these temporary hit points, you can't do so again until you finish a long rest.
 
-**Righteous Judgment (9th Level)**. When a creature you can see within 30 feet attacks you or an ally, you can use your reaction to mark them with divine judgment until the end of your next turn. While marked, the creature has disadvantage on attack rolls against creatures other than you, and your allies have advantage on attack rolls against it. Additionally, if the marked creature attacks you, you can make one weapon attack against it as part of the same reaction (after the attack resolves). You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+**Relentless Disruption (9th Level)**. Your ability to control enemies improves dramatically. When a creature you can see within 30 feet takes a hostile action (makes an attack, casts a harmful spell, or uses a harmful ability), you can use your reaction to disrupt them. The creature must make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). On a failed save, the creature's action is wasted: if it was making an attack, the attack misses; if it was casting a spell, the spell fails but the spell slot is expended; if it was using an ability, the ability has no effect but any limited use is expended. On a successful save, the creature has disadvantage on the attack roll or any saving throws imposed by the spell or ability. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 **Additional Reaction (11th Level)**. You can take two reactions each round instead of one. Both reactions can be used for any of your abilities that require a reaction. At 17th level, you can take three reactions each round.
 
-**Bastion of Hope (13th Level)**. Your presence inspires and protects your allies. Your Sanctuary Aura radius increases to 15 feet. Additionally, allies within your aura gain a bonus to AC equal to your Charisma modifier (minimum +1) while you are Flowing (0+ Flow) and you haven't attacked since the end of your last turn.
+**Unbreakable Will (13th Level)**. Your resolve cannot be shattered. You gain proficiency in all saving throws. Additionally, when you fail a saving throw while Flowing (0+ Flow), you can choose to succeed instead. Once you use this feature, you can't use it again until you finish a long rest.
 
-**Merciful Strike (14th Level)**. Your attacks seek to subdue rather than kill. When you hit a creature with a weapon attack, you can choose to deal no damage and instead force the creature to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). On a failed save, the creature is stunned until the end of your next turn. On a successful save, the creature's speed is reduced to 0 until the end of your next turn. Once you use this feature, you can't use it again until you finish a short or long rest.
+**Executioner's Strike (14th Level)**. When you hit a creature that is hindered by one or more of your abilities (such as Disruptive Strike, Arbiter's Judgment, or Relentless Disruption), you can choose to make the attack a devastating blow. The creature must make a Constitution saving throw (DC 8 + your proficiency bonus + your Charisma modifier). On a failed save, the creature is stunned until the end of your next turn and takes additional radiant damage equal to your ascetic level. On a successful save, the creature takes half the additional damage and isn't stunned. Once you use this feature, you can't use it again until you finish a short or long rest.
 
-**Aura of Protection (17th Level)**. Your protective aura reaches its peak. Your Sanctuary Aura radius increases to 20 feet. Additionally, when an ally within your aura is hit by an attack, you can use your reaction to reduce the damage they take by an amount equal to your Charisma modifier + your ascetic level. If you reduce the damage to 0, you gain 1 Flow boost.
+**Master of the Field (17th Level)**. Your battlefield control reaches its peak. You can Judge up to three creatures simultaneously with Arbiter's Judgment. Additionally, you can use Arbiter's Judgment as a reaction when a creature enters melee range of you or an ally within 30 feet (instead of only as a bonus action). When you do, you can Judge that creature or any creature within 30 feet of you.
 
-**Arbiter of Virtue (18th Level)**. You embody the ideal of righteous defense. You gain the following benefits:
+**Arbiter of Virtue (18th Level)**. You embody the ideal of righteous enforcement. You gain the following benefits:
 - Your Charisma score increases by 2, to a maximum of 22.
 - You can take four reactions each round instead of three.
-- **Divine Intervention** (once per long rest): When you or an ally within 30 feet would be reduced to 0 hit points, you can use your reaction to call upon divine power. The target is instead reduced to 1 hit point, regains hit points equal to twice your ascetic level, and gains immunity to all damage until the end of your next turn. Additionally, all hostile creatures within 30 feet of the target must make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or be stunned until the end of your next turn as they witness the divine miracle.
+- You can use Arbiter's Judgment without expending a limited use (but still requires a bonus action unless you use Master of the Field to Judge as a reaction). Additionally, Judged creatures also have their movement speed reduced by an additional 10 feet (20 feet total reduction).
+- **Divine Authority** (once per long rest): As an action, you can channel ultimate divine power for 1 minute. During this time, you can Judge any number of creatures within 30 feet of you simultaneously as a bonus action, and creatures that fail their saving throws against your abilities are paralyzed instead of suffering their normal effects. Additionally, when an ally within 30 feet of you would be reduced to 0 hit points, you can use your reaction to have them drop to 1 hit point instead and regain hit points equal to twice your ascetic level. All hostile creatures within 30 feet of the healed ally must make a Wisdom saving throw or be stunned until the end of your next turn.
 
 ---
 
