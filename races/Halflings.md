@@ -24,20 +24,20 @@ The Yorokai have made their homes within the massive Veldt trees, carving intric
 - **Tree Stride**: You can climb at your normal walking speed and never fall from trees unless magically compelled to do so.
 - **Forest Friend**: As an action, you can communicate simple ideas to beasts and plants within 30 feet for 10 minutes. Once you use this feature, you can't use it again until you finish a long rest.
 
-### Karangala
+### Aaldegar
 
-The Karangala create extensive networks of shallow burrows throughout Zilwynbar's marshlands, building communities that exist both above and below ground. The Karangala people are engineers and crafters, creating complex drainage systems and root cellars that keep their homes dry despite the soggy environment. They are known for their hospitality and their spectacular cuisine.
+The Aaldegar create extensive networks of shallow burrows throughout Zilwynbar's marshlands, building communities that exist both above and below ground. The Aaldegar people are engineers and crafters, creating complex drainage systems and root cellars that keep their homes dry despite the soggy environment. They are known for their hospitality and their spectacular cuisine.
 
 - **Ability Score Increase**: +1 Intelligence
-- **Language**: You can speak Karangala, a rich yet complicated dialect of Halfling full of history and loanwords from many languages.
-- **Tunnel Network**: In boggy terrain, you can dig simple tunnels and burrows at half your normal speed. While underground, you always know the direction to the nearest Karangala settlement.
+- **Language**: You can speak Aaldegar, a rich yet complicated dialect of Halfling full of history and loanwords from many languages.
+- **Tunnel Network**: In boggy terrain, you can dig simple tunnels and burrows at half your normal speed. While underground, you always know the direction to the nearest Aaldegar settlement.
 - **Swamp Navigation**: You ignore difficult terrain of swamps, marshes, or other wetlands.
 
-### Gotoro
+### Wendric
 
-The Gotoro are wandering halflings who follow seasonal migrations across Zilwynbar and beyond, living off the land and trading with settled communities. These halflings have developed exceptional survival skills and an encyclopedic knowledge of edible plants, useful herbs, and animal behavior. They serve as messengers and guides between distant communities.
+The Wendric are wandering halflings who follow seasonal migrations across Zilwynbar and beyond, living off the land and trading with settled communities. These halflings have developed exceptional survival skills and an encyclopedic knowledge of edible plants, useful herbs, and animal behavior. They serve as messengers and guides between distant communities.
 
 - **Ability Score Increase**: +1 Wisdom
-- **Language**: You can speak Gotoro, also known as Uncommon. It's a language that sounds like Halfling and borrows many words from nearby Satyr, Orcish and Common, and is written in the Common script. Besides Common, it is among the most widely-spoken trade languages, acting as a lingua-franca among the northeast region of Azergad.
+- **Language**: You can speak Wendric, also known as Uncommon. It's a language that sounds like Halfling and borrows many words from nearby Satyr, Orcish and Common, and is written in the Common script. Besides Common, it is among the most widely-spoken trade languages, acting as a lingua-franca among the northeast region of Azergad.
 - **Forager's Knowledge**: You have proficiency in Survival and gain proficiency with herbalism kits.
 - **Cross-Country Traveller**: You ignore difficult terrain when traveling on foot for long distances (more than 1 hour of continuous travel).

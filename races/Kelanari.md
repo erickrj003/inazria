@@ -36,12 +36,12 @@ The Pelagoran live aboard great floating cities that drift with the currents of 
 - **Storm Calling**: Once per long rest, you can cast gust of wind as a 1st-level spell without using a spell slot.
 - **Master Navigator**: You have proficiency with navigator's tools and can never become lost at sea, barring magical effects. You have advantage on Survival checks while on or near large bodies of water.
 
-### Yamaphal
+### Khemazi
 
-The mysterious Yamaphal dwell in the deepest parts of the Violet Sea, in cities built within underwater trenches and abyssal plains. These Kelanari have adapted to crushing depths and eternal darkness, developing enhanced senses and a more reserved, contemplative culture. They are scholars of the deep ocean's secrets and guardians of ancient knowledge.
+The mysterious Khemazi dwell in the deepest parts of the Violet Sea, in cities built within underwater trenches and abyssal plains. These Kelanari have adapted to crushing depths and eternal darkness, developing enhanced senses and a more reserved, contemplative culture. They are scholars of the deep ocean's secrets and guardians of ancient knowledge.
 
 - **Ability Score Increase**: +1 Intelligence
-- **Language**: You can speak Yamaphali, the ancient language from which modern Kelanari derives from. To outsiders, the language is poetic and formal.
+- **Language**: You can speak Khemazi, the ancient language from which modern Kelanari derives from. To outsiders, the language is poetic and formal.
 - **Abyssal Adaptation**: You take no damage from water pressure and can survive at any depth.
 - **Deep Sight**: Your darkvision extends to 90 feet, and you can see normally in complete darkness underwater.
-- **Lack of Storm Sense**: Yamaphal do not benefit from the Storm Sense racial ability.
+- **Lack of Storm Sense**: Khemazi do not benefit from the Storm Sense racial ability.

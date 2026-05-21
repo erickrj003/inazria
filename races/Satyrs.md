@@ -15,12 +15,12 @@ Satyrs are quite tall, with adults ranging from 6'1" up to 7'6" and taller. Most
 - **Swift Movements**: Satyrs are proficient in Acrobatics due to their naturally deft physique.
 - **Languages**: You can speak, read, and write Common and Satyr. Satyr is elegant and full of soft syllables, but is only properly spoken at loud volumes. The language of each Satyr people group is mutually intelligible with standard Satyr.
 
-### Jazikbu
+### Jaziko
 
-The most common variety of satyr, the Jazikbu inhabit the temperate forests and plains that make up the bulk of Azelliot. The Jazikbu thrive in their native lands as aggressive hunters while maintaining a cultural sensitivity to Mother Nature's needs. Naturally outgoing and friendly, Grassland satyrs are generally welcoming towards outsiders of all kinds.
+The most common variety of satyr, the Jaziko inhabit the temperate forests and plains that make up the bulk of Azelliot. The Jaziko thrive in their native lands as aggressive hunters while maintaining a cultural sensitivity to Mother Nature's needs. Naturally outgoing and friendly, the Grassland satyrs are generally welcoming towards outsiders of all kinds.
 
 - **Ability Score Increase**: +1 Dexterity
-- **Language**: You speak Jazikbu. Jazikbu is known to be beautiful and energetic, with a wider vocabulary than standard Satyr.
+- **Language**: You speak Jaziko. Jaziko is known to be beautiful and energetic, with a wider vocabulary than standard Satyr.
 - **Persuasive**: At the beginning of the game, you choose to gain proficiency in either Intimidation and Persuasion, reflecting a natural ability to be agreeable yet intimidating due to their horns and size.
 - **Social Skills**: You are naturally talented and able to speak or play something well without much preparation. You gain proficiency in Performance and a single musical instrument of your choice.
 
@@ -33,11 +33,11 @@ The Lendolo inhabit the underexplored wetlands where Azelliot meets the northern
 - **Marsh Walker**: You can walk on water up to 1 foot deep without sinking, and you have a swimming speed of 20 feet.
 - **Artistic Soul**: You have proficiency in one type of artisan's tools and one type of musical instrument.
 
-### Borusho
+### Borshai
 
-The Borusho roam the foothills between Azelliot's plains and the Marram mountains, following ancient migration routes with their herds of mountain goats and hardy cattle. These satyrs are shorter and stockier than their cousins, with thick woolly coats and curved horns adapted for headbutting. Extremely proud of their culture, they are renowned storytellers and musicians. They are the keepers and preservers of oral histories that span centuries. The Borusho are famous for having incredible memories.
+The Borshai roam the foothills between Azelliot's plains and the Marram mountains, following ancient migration routes with their herds of mountain goats and hardy cattle. These satyrs are shorter and stockier than their cousins, with thick woolly coats and curved horns adapted for headbutting. Extremely proud of their culture, they are renowned storytellers and musicians. They are the keepers and preservers of oral histories that span centuries. The Borshai are famous for having incredible memories.
 
 - **Ability Score Increase**: +1 Constitution
-- **Language**: You can speak Borusho, a more tonal dialect of Satyr. Speaking Borusho with confidence sounds like a chorale.
+- **Language**: You can speak Borshai, a more tonal dialect of Satyr. Speaking Borshai with confidence sounds like a chorale.
 - **Mountain Adaptation**: You're acclimated to high altitudes and have advantage on Constitution saving throws against exhaustion caused by long hikes or extreme weather.
 - **Oral Tradition**: You have proficiency in History. When recalling information about events that occurred within the last 200 years, you can add your proficiency bonus to the check.

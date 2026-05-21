@@ -4,11 +4,11 @@
 
 Azergad is a diverse world full of intelligent beings that speak a huge variety of languages. Below is a brief guide to help you understand common tongues.
 
-Common serves as the primary trade language throughout Azergad, developed from ancient human diplomatic traditions and now spoken by educated members of most races. It uses a standardized script that has been adapted by many other languages.
+Common serves as the primary trade language throughout Azergad, developed from ancient human diplomatic traditions and now spoken by educated members of most races. It uses a standardized script (a simplified version of Inazri) that has been adapted by many other languages.
 
 Kystri functions as the dominant trade language throughout the Kystrilands and coastal regions of the Violet Sea. Born from dwarven maritime culture, it combines various dwarven dialects with Common words and is considered essential for sea traders. Expect most merchants, seafarers and coastal dwellers to speak it at a basic level, at least.
 
-Gotoro (Uncommon) serves as the traveling tongue of wanderers, nomads, and long-distance traders. Created by the Gotoro halflings, it incorporates vocabulary from numerous languages and uses the Common script. Many Common words are present in Gotoro with varying degrees of modification, but often have different meanings. Caravaneers, guides, and adventurers learn Gotoro to communicate across cultural boundaries. Nowadays, it is frequently used as a lingua franca among the northern and eastern rural regions of Azergad, including Zilwynbar, Azelliot, Bisengal, and Inazria.
+Wendric (Uncommon) serves as the traveling tongue of wanderers, nomads, and long-distance traders. Created by the Wendric halflings, it incorporates vocabulary from numerous languages and uses the Common script. Many Common words are present in Wendric with varying degrees of modification, but often have different meanings. Caravaneers, guides, and adventurers learn Wendric to communicate across cultural boundaries. Nowadays, it is frequently used as a lingua franca among the northern and eastern rural regions of Azergad, including Zilwynbar, Azelliot, Bisengal, and Inazria.
 
 Veldtwin is the language of the Veldtwin, the predominant people group spanning the entire length of the Veldt forest. The Veldt is a forest of impressively massive trees: they are wide enough to fit entire towns, potentially stand kilometers tall, and grow in close proximity to each other. Veldt-dwellers frequently live high up in the leaves and branches of the giant trees. This is because the forest floor tends to be cold, void of useful resources, and full of dangerous monsters. Constant square kilometers of forest span the length of several nations. 
 
@@ -20,6 +20,6 @@ While role playing as someone from one of Azergad’s many people groups, consul
 
 Direct vs. Subtle: Orcs, Dwarves, and Hyzalians typically prefer straightforward communication, while Elves, Kelanari, and Satyrs often use indirect methods. Halflings adapt their style to their audience.
 
-Volume and Pace: Caekone Dwarves and Satyrs speak loudly and quickly, Lendolo Satyrs speak slowly and quietly, while Hyzalians combine verbal and gestural communication. Mismatched communication styles can lead to unintended offense - know your audience!
+Volume and Pace: Kaikone Dwarves and Satyrs speak loudly and quickly, Lendolo Satyrs speak slowly and quietly, while Hyzalians combine verbal and gestural communication. Mismatched communication styles can lead to unintended offense - know your audience!
 
-Hospitality: Satyrs, Gotoro halflings, and most humans have very social and multi-cultural societies, while Elves, Orcs and Hyzalians prefer minimal formal interaction with outsiders.
+Hospitality: Satyrs, Wendric halflings, and most humans have very social and multi-cultural societies, while Elves, Orcs and Hyzalians prefer minimal formal interaction with outsiders.
